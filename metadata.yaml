@@ -1,0 +1,27 @@
+_repo: Oklahoma-and-Other-Poems_14953
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14953-h/images/cover.png
+creator:
+  author:
+    agent_name: Miller, Freeman Edwin
+    alias: Miller, Freeman E. (Freeman Edwin)
+    birthdate: 1864
+    deathdate: 1951
+    gutenberg_agent_id: '5751'
+    url: http://www.gutenberg.org/2009/agents/5751
+description: ''
+gutenberg_issued: '2005-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Oklahoma -- Poetry'
+title: Oklahoma and Other Poems
+url: http://www.gutenberg.org/ebooks/14953
